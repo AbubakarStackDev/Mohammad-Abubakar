@@ -22,7 +22,7 @@ I enjoy building **scalable full-stack web applications**, solving **real-world 
 
 ### ☁️ Cloud & DevOps
 
-* **Cloud:** AWS (EC2, S3 – basics)
+* **Cloud:** AWS (EC2, S3)
 * **Version Control:** Git & GitHub
 * **Deployment:** Render, Railway, AWS (learning & building)
 
